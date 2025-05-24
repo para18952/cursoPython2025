@@ -1,5 +1,28 @@
 # mod1 - Programación con Python
 
+# Curso Python ERAP
+
+Este repositorio contiene materiales del curso de introducción a Python para el programa ERAP.
+
+## 📘 Notebook 1: Números, Operadores y Variables
+
+En este notebook se introducen los conceptos básicos de Python:
+
+- Tipos de datos numéricos
+- Operadores aritméticos
+- Asignación de variables
+- Buenas prácticas de nomenclatura
+
+Puedes abrir el notebook directamente en Google Colab usando el siguiente botón:
+
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ednavivianasegura/ERAP_CursoPython/blob/main/01.numeros_operadores_variables.ipynb)
+
+---
+
+## 📁 Estructura del repositorio
+
+
+
 
 
 ## Getting started
