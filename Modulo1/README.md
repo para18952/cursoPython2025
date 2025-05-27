@@ -9,7 +9,7 @@ Este repositorio contiene materiales del curso de introducción a Python
 
 ### 01. Números, Operadores y Variables  
 Introducción a los tipos de datos numéricos, operadores aritméticos y asignación de variables en Python.  
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ednavivianasegura/ERAP_CursoPython/blob/main/Modulo1/01.numeros_operadores_variables.ipynb)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/para18952/cursoPython2025/blob/main/Modulo1/01.numeros_operadores_variables.ipynb)
 
 ### 02. Booleans y Operadores Lógicos  
 Exploración de valores booleanos y operadores lógicos para controlar el flujo de los programas.  
